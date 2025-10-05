@@ -1,0 +1,6 @@
+{
+  "gmat": {
+    "bin_dir": "PATH/TO/YOUR/GMAT/bin",
+    "output_dir": "PATH/TO/YOUR/GMAT/output"
+  }
+}
